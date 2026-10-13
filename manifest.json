@@ -8,9 +8,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./index.html",
-  "background_color": "#color",
-  "theme_color": "#color",
-  "display": "standalone",
-  "orientation": "portrait"
+  start_url": "./index.html",
+"scope": "./",
+"background_color": "#25108A",
+"theme_color": "#3920A8",
+"display": "standalone",
+"orientation": "portrait"
 }
